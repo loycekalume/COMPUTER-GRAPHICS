@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 
   glutInitWindowPosition(80, 80);
   glutInitWindowSize(400, 300);
-  glutCreateWindow("The Hut");
+  glutCreateWindow("My Hut");
   glClearColor(1.0,1.0,1.0,1.0);
  glColor3f(1,1,0);
   glutDisplayFunc(display);
